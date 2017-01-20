@@ -27,7 +27,7 @@ $userid, $hours, $queue, $charge, $fasnumber
 .
 format STDOUT_TOP = 
 $%
-         ELLIPSE Cluster Usage Summary
+          Cluster Usage Summary
 
 Userid         Hours     Queue        Charge      Acct
 ---------      -------   ---------    ---------   ------
